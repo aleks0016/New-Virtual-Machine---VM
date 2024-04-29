@@ -5,3 +5,8 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
 }
+
+.vm-heading {
+    font-size: 60px;
+    margin-top: 8%;
+}
